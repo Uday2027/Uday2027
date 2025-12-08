@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=900&duration=2200&color=FF0000&center=true&vCenter=true&width=1000&lines=WELCOME+TO+UDAY-2027+MAIN+FUTURE+INTERFACE;AI+CORE+ONLINE...;BUILDING+THE+NEXT+GENERATION+OF+TECHNOLOGY" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajput-hemant/rajput-hemant/main/assets/rocket-launch.gif" width="180">
-</div>
-
 #### **SYSTEM STATUS**
 
 <div align="center">
