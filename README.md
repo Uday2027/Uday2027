@@ -47,10 +47,6 @@
 #### **ANALYTICS**
 
 <p align="center">
-  
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-animated-profile-page/main/assets/analytics.gif" width="240">
-  <br>
-
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Uday2027&theme=tokyonight&hide_border=true&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF&background=000000" />
 </p>
   
@@ -83,7 +79,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/futuristic-lines.gif" width="700">
-
   <h3><strong>“I don't wait for the future — I engineer it.”</strong></h3>
 </div>
