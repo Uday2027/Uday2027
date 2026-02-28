@@ -19,7 +19,7 @@
 # AI CORE............ ACTIVE  
 ! MODE............... AUTO-LEARNING  
 + FIREWALL........... SECURED  
-@@ CURRENT TASK...... BUILDING FUTURE SYSTEMS @@
+@@ CURRENT TASK...... BUILDING Web Application for Upcoming CSE CARNIVAL 2026 @@
 ```
 
 </td></tr></table>
